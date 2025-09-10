@@ -1,0 +1,9 @@
+{
+  "priorityMicrolamports": 5000,
+  "actions": [
+    { "kind": "createAta", "mint": "So11111111111111111111111111111111111111112" },
+    { "kind": "transferSol", "to": "11111111111111111111111111111111", "amountSol": "0.001" },
+    { "kind": "swapPlaceholder", "pool": "Pool1111111111111111111111111111111111111", "inMint": "So11111111111111111111111111111111111111112", "outMint": "TokenMint1111111111111111111111111", "amountSol": "0.01" }
+  ]
+}
+
